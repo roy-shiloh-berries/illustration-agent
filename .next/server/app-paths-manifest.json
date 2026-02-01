@@ -1,0 +1,18 @@
+{
+  "/api/canvas/[projectId]/route": "app/api/canvas/[projectId]/route.js",
+  "/api/generate/[id]/tree/route": "app/api/generate/[id]/tree/route.js",
+  "/api/feedback/stats/[styleId]/route": "app/api/feedback/stats/[styleId]/route.js",
+  "/api/generate/job/[jobId]/route": "app/api/generate/job/[jobId]/route.js",
+  "/_not-found/page": "app/_not-found/page.js",
+  "/api/feedback/route": "app/api/feedback/route.js",
+  "/api/generate/[id]/variations/route": "app/api/generate/[id]/variations/route.js",
+  "/api/generate/route": "app/api/generate/route.js",
+  "/api/styles/[id]/learn/route": "app/api/styles/[id]/learn/route.js",
+  "/api/process/compare/route": "app/api/process/compare/route.js",
+  "/api/process/remove-bg/route": "app/api/process/remove-bg/route.js",
+  "/api/process/to-svg/route": "app/api/process/to-svg/route.js",
+  "/api/styles/[id]/analyze/route": "app/api/styles/[id]/analyze/route.js",
+  "/api/styles/route": "app/api/styles/route.js",
+  "/api/styles/[id]/route": "app/api/styles/[id]/route.js",
+  "/page": "app/page.js"
+}
